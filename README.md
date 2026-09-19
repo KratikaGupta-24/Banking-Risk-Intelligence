@@ -300,6 +300,54 @@ The objective is to provide a structured view of loan and customer risk while en
 ---
 
 ## 📸 Project Screenshots
+## 📸 Project Screenshots
+
+### Power BI Executive Dashboard
+
+The executive dashboard provides an interactive view of loan performance, customer risk, defaults, repayments, transactions, and state-level analysis.
+
+![Power BI Executive Dashboard](screen%20shots/01_powerbi_dashboard.png)
+
+### Microsoft Fabric Lakehouse
+
+The Fabric Lakehouse provides the centralized analytical storage layer for the banking solution.
+
+![Microsoft Fabric Lakehouse](screen%20shots/02_fabric_lakehouse.png)
+
+### Fabric Notebook
+
+The Fabric notebook is used for data inspection and validation within the Microsoft Fabric environment.
+
+![Fabric Notebook](screen%20shots/03_fabric_notebook.png)
+
+### Semantic Model
+
+The semantic model provides the structured analytical layer used for Power BI reporting.
+
+![Semantic Model](screen%20shots/04_semantic_model.png)
+
+### Row-Level Security
+
+The `State_Manager_RLS` role demonstrates state-based access control using the `state` field.
+
+![Row-Level Security](screen%20shots/05_rls.png)
+
+### Deployment Pipeline
+
+The solution is promoted across Development, Test, and Production using a Microsoft Fabric Deployment Pipeline.
+
+![Deployment Pipeline](screen%20shots/06_deployment_pipeline.png)
+
+### Additional Dashboard Views
+
+Additional Power BI dashboard views are included in the repository for further exploration.
+
+![Power BI Dashboard View](screen%20shots/02_powerbi_dashboard.png)
+
+![Power BI Dashboard View](screen%20shots/03_powerbi_dashboard.png)
+
+![Power BI Dashboard View](screen%20shots/04_powerbi_dashboard.png)
+
 
 ### Power BI Executive Dashboard
 

@@ -262,7 +262,6 @@ Banking_Risk_Intelligence/
 └── README.md
 ```
 
-> **Note:** Large source and processed datasets are excluded from the GitHub repository because of file-size considerations. The repository focuses on the analytical code, documentation, architecture, and implementation approach.
 
 ---
 
@@ -349,25 +348,7 @@ Additional Power BI dashboard views are included in the repository for further e
 ![Power BI Dashboard View](screen%20shots/04_powerbi_dashboard.png)
 
 
-### Power BI Executive Dashboard
 
-*Add dashboard screenshot here.*
-
-### Microsoft Fabric Lakehouse
-
-*Add Lakehouse screenshot here.*
-
-### Semantic Model
-
-*Add semantic model screenshot here.*
-
-### Row-Level Security
-
-*Add RLS screenshot here.*
-
-### Deployment Pipeline
-
-*Add Development → Test → Production screenshot here.*
 
 ---
 
